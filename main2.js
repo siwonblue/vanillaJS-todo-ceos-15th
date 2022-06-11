@@ -1,4 +1,4 @@
-// main.js 는 로컬스토리지에 저장하는 코드
+// main2 는 백엔드와 통신
 
 const wrapper = document.querySelector("wrapper");
 const appNameContainer = document.querySelector(".app-name-container");
